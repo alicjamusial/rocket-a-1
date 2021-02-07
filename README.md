@@ -6,9 +6,11 @@
 
 **A-1** is a fully 3D-printable flying model rocket. It is threaded, so it doesn't require any glue to be assembled (except a little drop to attach the parachute or streamer cord to the cone (but I'll probably add a hook in the cone in incoming version to avoid this inconvenience)).
 
-It is compatible with **Klima motors** (18mm diameter and 70mm length). It was tested with Klima C6-7 motor and flew nicely. 
+It is compatible with **Klima motors** (18mm diameter and 70mm length). It was tested with Klima C6-7 motor and flew nicely - the same model is ready to fly one more time.
 
 Feel free to modify the model and create your own version best suited for your motor :). I'd love to see more A-1 fly!
+
+![schema](images/a1_rocket.png)
 
 ### ◾ Files
 This project consists of:
@@ -20,10 +22,15 @@ This project consists of:
 
 ### ◾ How high will it fly?
 - Simulation from the OpenRocket (included below) shows something about 220m. I didn't put the altimeter inside **yet**, but I guess it could have been something around it.
-- So just give it a try...
-- ...or see how it takes off in action [on youtube](http://openrocket.info/)!
 
 ![schema](images/flight_simulation.png)
+
+- So just give it a try...
+- ...or see how it takes off in action:
+
+<p align="center">
+  <img src="https://github.com/alicjamusial/rocket-a-1/blob/master/images/flight.gif?raw=true" />
+</p>
 
 ### ◾ 3D printer hints
 1. I printed the rocket on Ender 5 Pro. There's a possibility that your printer will require some adjustments in `*.stl` files to be able to print them properly.
